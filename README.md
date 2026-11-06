@@ -46,10 +46,6 @@ I'm an experienced Frontend Developer passionate about creating modern, responsi
 - Improve website usability and user experience.
 - Focus on clean code and modern web design practices.
 
-## 📊 GitHub Statistics
-
-\<p align="center"\> \<img src="https://github-readme-stats.vercel.app/api?username=Mosab-Abakar&show\_icons=true&theme=default&hide\_border=true" height="165" alt="GitHub Stats"/\> \<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosab-Abakar&layout=compact&theme=default&hide\_border=true" height="165" alt="Top Languages"/\> \</p\>
-
 ## 🧰 Languages & Tools
 
 \<p align="left"\> \<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/\> \<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/\> \<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/\> \<img src="https://img.shields.io/badge/Bootstrap\_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/\> \<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/\> \<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/\> \<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/\> \<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/\> \</p\>
@@ -63,29 +59,26 @@ I enjoy building creative and practical web projects that demonstrate my fronten
 - 💻 Interactive Web Applications
 - 🚀 Explore my projects: GitHub Repositories
 
-## 🎯 Currently Focused On
-
-- Improving JavaScript development skills.
-- Building modern and responsive user interfaces.
-- Exploring new frontend development techniques.
-- Creating better user experiences.
-- Developing creative and professional websites.
-  
-## 🤝 Let's Connect
-
-\<p align="left"\> \<a href="https://github.com/Mosab-Abakar"\> \<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/\> \</a\> \</p\>
-
----
-
 \<p align="center"\> \<b\>Thanks for visiting my GitHub profile\! 👋\</b\> \<br/\> \<i\>Designing beautiful interfaces. Building meaningful web experiences.\</i\> \</p\>
 
+## 🚀 What I'm Working On
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Developing modern and responsive web applications.
+- Improving my JavaScript and React.js skills.
+- Exploring AI integration in web applications.
+- Building practical projects and improving my development workflow.
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+## 🎯 Professional Interests
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Front-End Development | Web Applications | UI/UX | Artificial Intelligence | Web Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🤝 Let's Connect
 
-I'm open to collaboration, professional networking, and exciting web development opportunities.
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/mosab-targio)
+- Portfolio: https://mosabwebdesign.com
+## Expertise Skills
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
