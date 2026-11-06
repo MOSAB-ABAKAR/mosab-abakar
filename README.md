@@ -46,10 +46,6 @@ I'm an experienced Frontend Developer passionate about creating modern, responsi
 - Improve website usability and user experience.
 - Focus on clean code and modern web design practices.
 
-## 🧰 Languages & Tools
-
-\<p align="left"\> \<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/\> \<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/\> \<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/\> \<img src="https://img.shields.io/badge/Bootstrap\_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5"/\> \<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/\> \<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/\> \<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/\> \<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/\> \</p\>
-
 ## 📌 Featured Projects
 
 I enjoy building creative and practical web projects that demonstrate my frontend development skills.
@@ -58,8 +54,6 @@ I enjoy building creative and practical web projects that demonstrate my fronten
 - 🎨 Modern UI Design
 - 💻 Interactive Web Applications
 - 🚀 Explore my projects: GitHub Repositories
-
-\<p align="center"\> \<b\>Thanks for visiting my GitHub profile\! 👋\</b\> \<br/\> \<i\>Designing beautiful interfaces. Building meaningful web experiences.\</i\> \</p\>
 
 ## 🚀 What I'm Working On
 
@@ -82,3 +76,11 @@ Front-End Development | Web Applications | UI/UX | Artificial Intelligence | Web
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
